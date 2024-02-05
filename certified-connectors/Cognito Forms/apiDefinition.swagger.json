@@ -71,7 +71,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -141,7 +141,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -242,7 +242,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -355,7 +355,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -410,7 +410,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -483,7 +483,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -574,7 +574,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -689,7 +689,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -805,7 +805,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -925,7 +925,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
@@ -991,7 +991,7 @@
             "description": "Not Found"
           },
           "500": {
-            "description": "Internal Server Error. Unknown error occured"
+            "description": "Internal Server Error. Unknown error occurred"
           },
           "default": {
             "description": "Operation Failed"
